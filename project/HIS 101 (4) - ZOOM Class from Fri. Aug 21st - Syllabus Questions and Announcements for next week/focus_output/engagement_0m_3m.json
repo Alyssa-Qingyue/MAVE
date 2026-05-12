@@ -1,0 +1,290 @@
+{
+  "grid_00": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.03392752528421954,
+      "1": 0.03392752528421954,
+      "2": 0.25069238762298623,
+      "3": 0.6814525618085747
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The individual consistently displays stable forward orientation and posture across all three minutes, with no dominant distractions. Minor variations in head position and hand movements suggest engagement rather than disengagement. Therefore, a level 3 engagement is appropriate, while a level 2 could be considered but is less plausible given the overall stability and attentiveness observed.",
+    "num_segments": 3
+  },
+  "grid_01": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.03392752528421954,
+      "1": 0.03392752528421954,
+      "2": 0.25069238762298623,
+      "3": 0.6814525618085747
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The man consistently maintains an upright posture and a forward orientation throughout all three minutes, with no significant distractions noted. His facial expressions and slight shifts in engagement suggest a dynamic interaction, aligning with a highly engaged level. While a barely engaged interpretation could be considered due to minor fluctuations in expression, the overall stability and focus lean strongly towards a highly engaged assessment.",
+    "num_segments": 3
+  },
+  "grid_02": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.03392752528421954,
+      "1": 0.03392752528421954,
+      "2": 0.25069238762298623,
+      "3": 0.6814525618085747
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The young man displays stable forward orientation and posture throughout the three minutes, with no dominant distractions. While there are slight moments of distraction, they are brief and do not detract from his overall engagement, supporting a judgment of highly engaged (level 3). A barely engaged (level 1) interpretation is plausible due to minor lapses, but levels 2 and 3 are more fitting, with level 3 being the most accurate. Levels 0 and 1 are not plausible given the consistent engagement observed.",
+    "num_segments": 3
+  },
+  "grid_03": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.03392752528421954,
+      "1": 0.03392752528421954,
+      "2": 0.25069238762298623,
+      "3": 0.6814525618085747
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The individual consistently displays a stable forward orientation and posture across all three minutes, with no dominant distractions. While there are minor shifts in posture, they indicate engagement rather than disengagement. Therefore, a level of 3 is justified, and a level of 2 could be plausible but is less likely given the overall stability and focus observed.",
+    "num_segments": 3
+  },
+  "grid_04": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.03392752528421954,
+      "1": 0.03392752528421954,
+      "2": 0.25069238762298623,
+      "3": 0.6814525618085747
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The individual displays stable forward orientation and posture throughout all three segments, with no dominant distractions or sustained inattention. While there are minor shifts in head position, these do not indicate disengagement. Therefore, the anchor level is 3, with a plausible lower level of 2, but no higher level of engagement is supported by the evidence.",
+    "num_segments": 3
+  },
+  "grid_05": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.03392752528421954,
+      "1": 0.03392752528421954,
+      "2": 0.25069238762298623,
+      "3": 0.6814525618085747
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The individual consistently maintains a stable forward orientation and posture across all three minutes, with no dominant distractions noted. While there are minor interruptions, such as the object obscuring the view in minute 2, these do not significantly detract from the overall engagement level, which remains high.",
+    "num_segments": 3
+  },
+  "grid_06": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.027883386786011228,
+      "1": 0.20603190919001857,
+      "2": 0.5600527948339515,
+      "3": 0.20603190919001857
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The young man displays generally stable posture and orientation throughout the three minutes, indicating engagement. While there are moments of looking down or slight stillness, these do not dominate the scenes, allowing for an overall assessment of engagement. Levels 1 and 3 are plausible interpretations due to minor lapses and consistent forward orientation, respectively, but the evidence supports a primary classification of level 2.",
+    "num_segments": 3
+  },
+  "grid_07": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.027883386786011228,
+      "1": 0.20603190919001857,
+      "2": 0.5600527948339515,
+      "3": 0.20603190919001857
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The woman displays generally stable posture and orientation towards the camera throughout the three minutes, indicating engagement. While there are moments of contemplation that suggest minor lapses in attention, these do not detract significantly from her overall engagement level. Thus, an anchor level of 2 is appropriate, with the possibility of a lower level (1) due to slight shifts in attention, and a higher level (3) also plausible given her consistent forward orientation and minimal distractions.",
+    "num_segments": 3
+  },
+  "grid_08": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.03392752528421954,
+      "1": 0.03392752528421954,
+      "2": 0.25069238762298623,
+      "3": 0.6814525618085747
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The young man consistently displays stable forward orientation and posture across all three minutes, with focused engagement on his surroundings and activities. While there are minor shifts in attention, they do not indicate sustained distraction, supporting a judgment of high engagement. A barely engaged interpretation is plausible due to slight variations in focus, but the overall behavior strongly aligns with high engagement.",
+    "num_segments": 3
+  },
+  "grid_09": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.03392752528421954,
+      "1": 0.03392752528421954,
+      "2": 0.25069238762298623,
+      "3": 0.6814525618085747
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The young man displays stable forward orientation and posture throughout all three minutes, with no dominant distractions. While there are minor shifts in gaze and slight changes in expression, these do not indicate sustained inattention. Therefore, the anchor level of 3 is appropriate, with a plausible lower level of 2, but no higher levels are justifiable given the evidence.",
+    "num_segments": 3
+  },
+  "grid_11": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.027883386786011228,
+      "1": 0.20603190919001857,
+      "2": 0.5600527948339515,
+      "3": 0.20603190919001857
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The individual displays generally stable posture and orientation across all three minutes, with moments of engagement and minor lapses. While there are signs of stillness and downward gaze, they do not indicate sustained distraction, supporting an 'Engaged' level. However, the evidence also allows for a 'Barely Engaged' interpretation due to the consistent downward gaze and moments of stillness, and a 'Highly Engaged' interpretation is plausible given the overall stability and lack of distractions.",
+    "num_segments": 3
+  },
+  "grid_13": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.03392752528421954,
+      "1": 0.03392752528421954,
+      "2": 0.25069238762298623,
+      "3": 0.6814525618085747
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The individual maintains a stable forward orientation and posture throughout all three minutes, with no significant distractions or sustained inattention. Minor adjustments, such as tilting the head or shifting the cap, do not detract from their overall engagement. Therefore, the anchor level is 3, indicating high engagement. A one-level lower interpretation (2) is plausible due to minor movements, but there is no evidence of sustained distraction that would warrant a lower level. Higher levels of engagement (4) are not applicable as the scale only goes to 3.",
+    "num_segments": 3
+  },
+  "grid_15": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.03392752528421954,
+      "1": 0.03392752528421954,
+      "2": 0.25069238762298623,
+      "3": 0.6814525618085747
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The individual consistently maintains an upright posture and stable forward orientation across all three minutes, with no significant distractions noted. While there are minor shifts in posture and moments of stillness, these do not indicate disengagement. Therefore, a level of 3 is appropriate, with a plausible lower level of 2 due to slight variations in engagement, but no higher level is justifiable.",
+    "num_segments": 3
+  },
+  "grid_16": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.027883386786011228,
+      "1": 0.20603190919001857,
+      "2": 0.5600527948339515,
+      "3": 0.20603190919001857
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The young man displays generally stable posture and orientation throughout the three minutes, with moments of engagement and focus, particularly in the first and third minutes. While there are minor lapses in attention, especially in the second minute where he looks down, the overall behavior suggests he is engaged with his surroundings. Therefore, an anchor level of 2 is appropriate, with the possibility of being seen as barely engaged (-1) or highly engaged (+1) due to the variations in focus.",
+    "num_segments": 3
+  },
+  "grid_17": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.027883386786011228,
+      "1": 0.20603190919001857,
+      "2": 0.5600527948339515,
+      "3": 0.20603190919001857
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The young man displays generally stable posture and orientation across all three minutes, indicating engagement. While there are moments of stillness and lowered gaze, these do not suggest sustained distraction. The overall behavior leans towards engagement, but the slight variations in attention allow for the possibility of barely engaged behavior as well.",
+    "num_segments": 3
+  },
+  "grid_18": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.027883386786011228,
+      "1": 0.20603190919001857,
+      "2": 0.5600527948339515,
+      "3": 0.20603190919001857
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The young man displays generally stable posture and forward orientation across all segments, indicating engagement. There are minor lapses in attention, such as looking down or resting his chin on his hand, but these do not dominate the behavior. Thus, level 2 is appropriate as the anchor. A barely engaged state (level 1) is plausible due to occasional moments of stillness, but overall, he maintains a focus that leans towards engagement. Level 3 is also plausible given the consistent forward orientation, but the minor lapses prevent a definitive classification at that level. Two-level deviations are not plausible as the overall behavior does not suggest significant disengagement or distraction.",
+    "num_segments": 3
+  }
+}

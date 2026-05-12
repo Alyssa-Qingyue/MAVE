@@ -1,0 +1,452 @@
+{
+  "grid_00": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The man demonstrates generally stable engagement throughout the three minutes, maintaining a forward orientation and consistent posture. While there are minor lapses in focus, particularly in the first two minutes, he remains attentive to his surroundings and the digital content. The third minute shows a stable interface with no distractions, supporting the anchor level of 2. However, the evidence does allow for a lower score of 1 due to slight inconsistencies in attention, and a higher score of 3 is plausible given the overall stability, but not strongly supported due to the minor lapses.",
+    "num_segments": 3
+  },
+  "grid_01": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The man displays generally stable engagement during the first two minutes, maintaining an upright posture and a steady gaze while interacting with the camera. However, in the third minute, the focus shifts entirely to a digital interface, which indicates a lack of engagement with the previous scene. This suggests that while he was engaged initially, the transition to a digital environment could lead to a lower engagement level, making a score of 1 plausible. However, the overall behavior across the three minutes leans more towards engagement, justifying a score of 2. A score of 3 is not supported due to the significant distraction in the final minute.",
+    "num_segments": 3
+  },
+  "grid_02": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The woman displays generally stable engagement throughout the three minutes, maintaining a forward orientation and attentive posture, particularly in the first two minutes. However, there are subtle shifts in focus and moments of distraction, especially in the transition to the digital interface in the third minute, which suggests she is engaged but with minor lapses. This supports an anchor level of 2, with the possibility of a lower score due to the slight instability in attention and a higher score being plausible if her engagement was more consistently stable.",
+    "num_segments": 3
+  },
+  "grid_03": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The woman displays generally stable engagement in the first two minutes, maintaining a forward orientation and attentive demeanor, which supports a score of 2. However, the third minute shows a lack of engagement with no visible subjects or actions, suggesting a potential drop to 1. The evidence does not support a score of 0 or 3, as there are no strong distractions or sustained focus on the empty scene.",
+    "num_segments": 3
+  },
+  "grid_04": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The overall behavior shows a generally stable forward orientation and posture, particularly during the video call in the last two minutes, indicating engagement. However, there are moments of contemplation and slight distractions in the first minute that suggest minor lapses in attention, allowing for a plausible lower score. The evidence does not support a higher engagement level due to these lapses.",
+    "num_segments": 3
+  },
+  "grid_05": {
+    "engagement": 1,
+    "confidence": {
+      "0": 0.29201281659706685,
+      "1": 0.5320820430765012,
+      "2": 0.08795257016321598,
+      "3": 0.08795257016321598
+    },
+    "anchor": 1,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence shows inconsistent attention and orientation, particularly in the second minute where Jason is focused on a document and Tommy is looking away. The overall behavior suggests a lack of stable engagement, justifying a score of 1. A score of 0 is plausible due to the frequent looking away, but the presence of some engagement keeps it at 1. Higher engagement levels are not supported by the evidence.",
+    "num_segments": 3
+  },
+  "grid_06": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The first two minutes show Danny Stedman engaged with stable posture and gestures, indicating attentiveness. The third minute, however, shifts to a static digital interface, which does not reflect engagement. Overall, the first two minutes support an engaged level (2), but the static nature of the third minute introduces ambiguity, making a barely engaged level (1) plausible as well.",
+    "num_segments": 3
+  },
+  "grid_07": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence shows Taylor maintaining a generally forward orientation and stable posture during the video call, indicating engagement. However, there are moments of looking down and a shift in focus to a digital interface, which suggests minor lapses in attention. This supports an anchor level of 2, with the possibility of a lower score due to the brief distractions and a higher score being plausible given the overall stable engagement.",
+    "num_segments": 3
+  },
+  "grid_08": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The first two minutes show the individual (Kamesha) maintaining a generally stable posture and attentive gaze, indicating engagement. However, the third minute shifts focus to a static digital interface, which does not involve Kamesha's engagement. This suggests that while she was engaged during the first two minutes, the last minute detracts from that engagement level, supporting an anchor of 2. A score of 1 is plausible due to the potential distraction in the third minute, but a score of 3 is not supported as there are moments of distraction evident.",
+    "num_segments": 3
+  },
+  "grid_09": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The overall behavior across the three minutes indicates a generally stable forward orientation and posture, with moments of minor distraction, particularly from Allison in Minute 2. However, both Cathryn and Kamesha exhibit consistent engagement, suggesting an anchor level of 2. While there are moments that could justify a score of 1 due to slight lapses in attention, the predominant behavior leans towards engagement, making a score of 3 implausible due to the observed distractions.",
+    "num_segments": 3
+  },
+  "grid_10": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "Christine demonstrates stable engagement in the first two minutes, maintaining an upright posture and focused gaze, indicative of a generally engaged state. However, the third minute shifts to a digital interface with no direct evidence of her engagement, suggesting a potential lapse. This leads to an anchor of 2, with plausible deviations to 1 due to the lack of direct engagement evidence in the last minute, and to 3 due to strong engagement in the first two minutes.",
+    "num_segments": 3
+  },
+  "grid_11": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "J'Aira displays generally stable engagement throughout the first two minutes, maintaining an upright posture and focused gaze, indicating attentiveness. However, there are brief moments of distraction, especially in Minute 1 where she glances downwards. Minute 3 shifts to a digital interface, which suggests a different type of engagement, but lacks the same level of personal interaction seen previously. Thus, while she is engaged, the evidence supports a score of 2, with the possibility of a lower score due to minor lapses, and a higher score is not supported as there are moments of distraction.",
+    "num_segments": 3
+  },
+  "grid_12": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "Danielle demonstrates stable posture and generally maintains forward orientation during the first two minutes, indicating engagement. However, the third minute shifts to a static calendar interface, which does not involve her active participation, suggesting a drop in engagement. This mixed evidence supports an anchor of 2, with plausible deviations to 1 and 3 due to the varying levels of engagement across the segments.",
+    "num_segments": 3
+  },
+  "grid_13": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "Enass displays generally stable posture and a forward gaze throughout the first two minutes, indicating engagement. However, the third minute shifts focus to a digital interface with less emphasis on her engagement, suggesting minor lapses. This supports an anchor of 2, with plausible deviations to 1 due to the potential instability in attention and to 3 due to her consistent engagement in the first two minutes.",
+    "num_segments": 3
+  },
+  "grid_14": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "Dr. Kathy Revis displays generally stable engagement throughout the three minutes, maintaining a forward orientation and upright posture with only minor lapses in attention. While there are moments of contemplation and slight shifts in focus, these do not detract significantly from her overall engagement level, justifying a score of 2. However, the presence of some distractions and variations in engagement allows for the plausibility of a score of 1, as well as a higher score of 3 if the evidence were stronger in favor of sustained engagement.",
+    "num_segments": 3
+  },
+  "grid_15": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "Dana demonstrates generally stable posture and forward orientation in the first two minutes, indicating engagement. However, the third minute shifts focus to a digital interface with no visible engagement from Dana, suggesting a minor lapse. This supports an overall engagement level of 2, with the possibility of a lower score due to the lack of direct engagement in the last minute, but also the potential for a higher score as the first two minutes show strong engagement.",
+    "num_segments": 3
+  },
+  "grid_16": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "Kelly demonstrates generally stable engagement throughout the first two minutes, maintaining an upright posture and focused gaze, which indicates attentiveness. However, in the third minute, the focus shifts to a digital interface with no visible engagement from her, suggesting a lapse in attention. This mixed evidence supports an anchor level of 2, with plausible deviations to 1 due to the potential instability in attention and to 3 due to her consistent engagement in the first two minutes.",
+    "num_segments": 3
+  },
+  "grid_17": {
+    "engagement": 1,
+    "confidence": {
+      "0": 0.24252342643313865,
+      "1": 0.4419064948389465,
+      "2": 0.24252342643313865,
+      "3": 0.07304665229477614
+    },
+    "anchor": 1,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "Rayvonda shows some engagement in the first two minutes, with a generally forward orientation and stable posture, but there are noticeable lapses in attention and moments of distraction, particularly in the second minute where her focus shifts. By the third minute, the focus shifts entirely to a digital interface with no engagement from her, indicating a drop in engagement. Therefore, a score of 1 reflects her inconsistent attention, while a score of 0 is plausible due to the lack of sustained engagement in the last minute. A score of 2 is not supported as her attention is not consistently stable.",
+    "num_segments": 3
+  },
+  "grid_18": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "Tasha demonstrates generally stable engagement throughout the first two minutes, with moments of focus and slight shifts in posture. However, in the third minute, the focus shifts to a digital interface, which indicates a level of engagement with the content but lacks Tasha's direct presence. This leads to an overall assessment of 'Engaged' (2), while acknowledging that lower engagement (1) is plausible due to the shifts in focus and the potential for distraction, and higher engagement (3) is also plausible given the moments of stable attention in the first two minutes.",
+    "num_segments": 3
+  },
+  "grid_19": {
+    "engagement": 3,
+    "confidence": {
+      "0": 0.11050154206917168,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.6684953737924849
+    },
+    "anchor": 3,
+    "acceptable_deviation": {
+      "-1": false,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The woman's stable forward orientation, relaxed posture, and consistent engagement with the viewer across both minutes indicate a high level of engagement. There are no signs of distraction or instability in her attention, supporting a score of 3. A score of 2 could be plausible due to minor variations in expression, but the overall stability and engagement are strong enough to anchor at 3.",
+    "num_segments": 2
+  },
+  "grid_20": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": false,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence describes a digital workspace with no observable behavior from the person. There is no indication of engagement, as the scene focuses solely on the interface and its elements, suggesting the individual is not actively participating or showing attention.",
+    "num_segments": 1
+  },
+  "grid_21": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The person shows stable engagement with the taskbar and the web browser icon, indicating a generally forward orientation and attentive behavior. However, the focus is primarily on the interface rather than on a broader context, allowing for the possibility of a lower score due to potential distractions. A higher score is not supported as there is no evidence of sustained distraction or high engagement with additional elements.",
+    "num_segments": 1
+  },
+  "grid_22": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": false,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence describes a digital interface with no indication of the person's engagement or attention. The focus is on the visual elements of the screen rather than the individual's behavior, suggesting a lack of engagement.",
+    "num_segments": 1
+  },
+  "grid_23": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The individual shows signs of engagement with the screen, as indicated by visible eyes and the context of digital interaction. However, the absence of the person's face in the second frame introduces some ambiguity about sustained attention. This allows for a plausible interpretation of both engaged (2) and barely engaged (1) levels, but not a lower or higher level.",
+    "num_segments": 1
+  },
+  "grid_24": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": false,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence describes a focus on visual elements without any indication of the person's engagement or attention. The shift in scene content does not provide any observable behavior that suggests the individual is engaged or attentive, leading to a judgment of not engaged.",
+    "num_segments": 1
+  }
+}

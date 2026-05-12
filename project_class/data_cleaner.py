@@ -19,14 +19,14 @@ except ImportError:
     raise ImportError("Need PIL (Pillow) and numpy. pip install Pillow numpy")
 
 # Stage 1: full-frame screenshot root (output from cut_video.py)
-FRAMES_ROOT = r"D:\Desktop\llm_as_a_judge\data\llm\project\Zoom Class Meeting Downing Soc 100 4⧸19⧸2021\frames"
+FRAMES_ROOT = r"/Users/alyssa/Desktop/llm_as_a_judge/data/llm/project_class/frames_10s"
 
 # Stage 2/3: grid image root (output from extract_faces.py, same format as preprocessor input)
-IMAGE_ROOT = r"D:\Desktop\llm_as_a_judge\data\llm\project\Zoom Class Meeting Downing Soc 100 4⧸19⧸2021\images" 
+IMAGE_ROOT = r"/Users/alyssa/Desktop/llm_as_a_judge/data/llm/project_class/images_out" 
 
 # Output root + video subfolder (cleaning results are written here)
-OUTPUT_BASE = r"D:\Desktop\llm_as_a_judge\data\llm\project"
-OUTPUT_VIDEO_SUBDIR = "Zoom Class Meeting Downing Soc 100 4⧸19⧸2021"
+OUTPUT_BASE = r"/Users/alyssa/Desktop/llm_as_a_judge/data/llm/project_class"
+OUTPUT_VIDEO_SUBDIR = "output"
 OUTPUT_DIR = os.path.join(OUTPUT_BASE, OUTPUT_VIDEO_SUBDIR)
 # Stage 1 output: exclude all grids for this timestamp
 PPT_EXCLUDED_JSON = os.path.join(OUTPUT_DIR, "ppt_excluded_times.json")

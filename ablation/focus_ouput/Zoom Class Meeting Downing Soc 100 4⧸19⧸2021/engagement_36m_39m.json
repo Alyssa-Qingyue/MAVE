@@ -1,0 +1,62 @@
+{
+  "grid_01": {
+    "engagement": 1,
+    "reasoning": "The man shows initial engagement through animated gestures and leaning forward, but his later posture of looking down indicates a lack of sustained attention, resulting in weak and unstable engagement overall.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_02": {
+    "engagement": 2,
+    "reasoning": "The young man displays a generally stable posture and maintains an upright position throughout the first minute. His gaze is directed slightly off-camera, indicating engagement with something, although it is not fully clear what it is. The subtle variations in his facial expression suggest moments of attentiveness, which aligns with the criteria for being engaged, despite the slight ambiguity in his focus.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_03": {
+    "engagement": 2,
+    "reasoning": "The young woman displays a generally stable posture and maintains a forward orientation throughout the minute. Her subtle changes in expression, from serious to smiling, indicate attentiveness and engagement with her surroundings, despite the absence of overt interaction or distraction.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_04": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and a forward orientation throughout the three minutes, with minor lapses in gaze direction. While there are moments of looking down or off-camera, the overall demeanor suggests engagement with the environment, characterized by a calm and composed presence.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_06": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and a forward orientation, sitting upright and facing the camera directly. Although there is a moment where their eyes are closed, this suggests contemplation rather than distraction, indicating attentive behavior with minor lapses.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_07": {
+    "engagement": 2,
+    "reasoning": "The individual maintains a generally stable posture and a forward orientation, with only minor lapses in attention indicated by slight head tilts and gaze shifts. This suggests they are engaged, despite the presence of some distractions.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_08": {
+    "engagement": 2,
+    "reasoning": "The individual displays a generally stable posture and a forward orientation, indicating attentiveness. Minor adjustments in head position and expression suggest engagement with their surroundings, despite the calm atmosphere.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_10": {
+    "engagement": 2,
+    "reasoning": "The young woman displays a generally stable posture and consistent forward orientation throughout both minutes, indicating engagement. While there are slight shifts in her gaze and head position, these suggest minor lapses rather than sustained distractions. The calm atmosphere and her thoughtful demeanor reinforce a level of attentiveness, justifying a rating of 'Engaged' overall.",
+    "num_segments": 2,
+    "method": "simple_direct_scoring"
+  },
+  "grid_12": {
+    "engagement": 0,
+    "reasoning": "The description indicates a lack of dynamic elements or changes in the scene, which may lead to frequent looking away or inattentive behavior. The static nature of the visual does not engage the viewer, suggesting they are not engaged.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_23": {
+    "engagement": 0,
+    "reasoning": "The description indicates a static scene with no visible movement or alteration, suggesting a lack of engagement. The focus on a single letter against a uniform background implies that there is no dynamic interaction or stimuli to capture attention, leading to frequent looking away or inattentive behavior.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  }
+}

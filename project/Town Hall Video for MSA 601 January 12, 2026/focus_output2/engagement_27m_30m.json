@@ -1,0 +1,344 @@
+{
+  "grid_00": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": false,
+      "+1": false,
+      "-2": true,
+      "+2": false
+    },
+    "reasoning": "The evidence across all three minutes shows a consistent view of a web browser interface with no observable interaction or engagement from the user. The lack of any visible behavior indicating attention or focus, such as looking away or showing signs of distraction, supports a score of 0. There is no evidence of even minimal engagement, making a score of 1 implausible. However, a score of 2 is not plausible either, as there is no indication of stable engagement or attention.",
+    "num_segments": 3
+  },
+  "grid_01": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": false,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence across all three minutes consistently shows a static computer screen with no interaction or visible engagement. The lack of movement or attention towards any dynamic content indicates a clear absence of engagement, justifying a score of 0.",
+    "num_segments": 3
+  },
+  "grid_02": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence across all three minutes describes a static digital interface with no visible user engagement or interaction. The consistent stillness and lack of movement indicate that the person is not engaged, as there are no signs of attention or focus on the content. A barely engaged state is plausible due to the potential for minimal attention, but overall, the evidence strongly supports a score of 0.",
+    "num_segments": 3
+  },
+  "grid_03": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": false,
+      "+1": false,
+      "-2": true,
+      "+2": false
+    },
+    "reasoning": "The evidence across all three minutes describes a static and unchanging scene with no visible movement or interaction. This suggests a lack of engagement, as there are no elements to capture attention or provoke interest. The consistent stillness and absence of dynamic features indicate that the viewer is not engaged, supporting a score of 0. A score of 1 is not plausible due to the complete lack of attention or orientation towards any engaging content. A score of 2 or 3 is also not plausible as there is no evidence of stable engagement or attention.",
+    "num_segments": 3
+  },
+  "grid_04": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "Danny displays generally stable engagement with forward orientation and attentive behavior, though there are moments of slight leaning back and varying posture. This suggests he is mostly engaged but has minor lapses. The woman's consistent posture and attentiveness further support the overall engagement level of 2, while still allowing for the possibility of a lower score due to occasional shifts in Danny's engagement. A higher score is plausible given the overall dynamic interaction, but sustained distractions are not evident.",
+    "num_segments": 3
+  },
+  "grid_05": {
+    "engagement": 1,
+    "confidence": {
+      "0": 0.29201281659706685,
+      "1": 0.5320820430765012,
+      "2": 0.08795257016321598,
+      "3": 0.08795257016321598
+    },
+    "anchor": 1,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence shows a consistent view of a digital interface with minimal interaction or engagement. The individual appears to have weak or unstable attention, as indicated by the static nature of the frames and lack of observable engagement with the content. Therefore, a score of 1 (Barely Engaged) is appropriate, with a plausible lower score of 0 due to the lack of active engagement. However, a higher score of 2 is not supported by the evidence, as there are no signs of stable attention or forward orientation.",
+    "num_segments": 3
+  },
+  "grid_06": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": false,
+      "+1": false,
+      "-2": true,
+      "+2": false
+    },
+    "reasoning": "The evidence across all three minutes describes a static digital interface with no observable interaction or engagement from the person. The lack of movement or attention towards the content suggests a clear absence of engagement, justifying a score of 0. There is no indication of even minimal engagement, making a score of 1 implausible, while a score of 2 is also not supported due to the complete lack of interaction.",
+    "num_segments": 3
+  },
+  "grid_07": {
+    "engagement": 1,
+    "confidence": {
+      "0": 0.29201281659706685,
+      "1": 0.5320820430765012,
+      "2": 0.08795257016321598,
+      "3": 0.08795257016321598
+    },
+    "anchor": 1,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence shows a consistent digital interface with no dynamic interaction or engagement from the viewer. The lack of movement and focus on the interface suggests weak or unstable attention, aligning more with a barely engaged level. While there is some consistency in the presentation, the absence of active engagement or interaction supports a score of 1, with a plausible lower score of 0 due to the static nature of the content.",
+    "num_segments": 3
+  },
+  "grid_08": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence shows consistent focus on the 'Achievements' option across all three minutes, indicating stable engagement with the digital interface. While there are moments of stillness and minimal variation, the cursor movement and highlighted text suggest active attention. Thus, an anchor level of 2 is appropriate, with the possibility of lower engagement (1) due to the lack of dynamic interaction, but higher engagement (3) is not supported as there are no signs of sustained distraction.",
+    "num_segments": 3
+  },
+  "grid_09": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "Kamesha Brown displays generally stable posture and a forward orientation throughout the three minutes, indicating engagement. While there are moments where her gaze is slightly off-camera, her overall demeanor suggests attentiveness with only minor lapses. Therefore, a score of 2 is appropriate. A score of 1 is plausible due to the slight inconsistencies in her gaze, but not strongly supported. A score of 3 is less plausible as there are minor distractions evident in her attention.",
+    "num_segments": 3
+  },
+  "grid_10": {
+    "engagement": 1,
+    "confidence": {
+      "0": 0.29201281659706685,
+      "1": 0.5320820430765012,
+      "2": 0.08795257016321598,
+      "3": 0.08795257016321598
+    },
+    "anchor": 1,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The first two minutes show some engagement with the digital calendar, particularly in the second minute where the cursor is positioned over an assignment, indicating potential interaction. However, the third minute presents a blank scene with no activity, suggesting a lack of engagement. Overall, the behavior reflects weak and unstable attention, justifying a score of 1. A score of 0 is plausible due to the inactivity in the last minute, but the engagement in the first two minutes supports a score of 1. Higher scores are not supported due to the lack of sustained engagement.",
+    "num_segments": 3
+  },
+  "grid_11": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence shows a consistent lack of engagement, with a focus on static digital interfaces that do not elicit active attention. The person appears to be looking at a calendar and circular interface without any signs of active interaction or attentiveness, indicating frequent looking away or down, which aligns with a score of 0.",
+    "num_segments": 3
+  },
+  "grid_12": {
+    "engagement": 1,
+    "confidence": {
+      "0": 0.29201281659706685,
+      "1": 0.5320820430765012,
+      "2": 0.08795257016321598,
+      "3": 0.08795257016321598
+    },
+    "anchor": 1,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The evidence shows weak and unstable attention, particularly in the second minute where the focus shifts from a detailed view of the calendar to a minimalistic one, indicating inconsistency. The absence of visible images in the third minute further suggests a lack of engagement. Therefore, a score of 1 is appropriate, with a plausible lower score of 0 due to the evident inattentiveness.",
+    "num_segments": 3
+  },
+  "grid_13": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": false,
+      "+1": false,
+      "-2": true,
+      "+2": false
+    },
+    "reasoning": "The evidence across all three minutes indicates a lack of engagement, with no observable attention or interaction with the content presented. The frames are static and devoid of any dynamic elements that could capture attention, leading to a clear assessment of 'Not Engaged' as the anchor level.",
+    "num_segments": 3
+  },
+  "grid_14": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The individuals display generally stable postures and attentive behaviors throughout the three minutes, indicating engagement. However, there are minor lapses in attention and slight shifts in focus, which prevent a higher score. The evidence supports a score of 2, with plausible interpretations for both 1 and 3 due to the variability in engagement levels observed.",
+    "num_segments": 3
+  },
+  "grid_15": {
+    "engagement": 2,
+    "confidence": {
+      "0": 0.07304665229477614,
+      "1": 0.24252342643313865,
+      "2": 0.4419064948389465,
+      "3": 0.24252342643313865
+    },
+    "anchor": 2,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": true,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The overall behavior shows a generally stable orientation and attention towards the digital calendar and assignment notifications. While there are minor lapses in engagement, the consistent focus on task details and the structured nature of the interface suggest a level of engagement that aligns with 'Engaged' (2). However, there are moments that could be interpreted as barely engaged (1) due to the lack of dynamic interaction or significant movement. A higher level of engagement (3) is not supported as there are no signs of sustained focus without distraction.",
+    "num_segments": 3
+  },
+  "grid_16": {
+    "engagement": 1,
+    "confidence": {
+      "0": 0.29201281659706685,
+      "1": 0.5320820430765012,
+      "2": 0.08795257016321598,
+      "3": 0.08795257016321598
+    },
+    "anchor": 1,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The first minute shows a lack of engagement due to the absence of visual content, leading to a score of 0. The second minute indicates some interaction with the digital interface, suggesting a level of engagement, but it remains weak and unstable. The third minute continues this trend with the cursor hovering, indicating potential interaction but lacking sustained focus. Overall, the behavior is closer to barely engaged (1) than engaged (2), as there are no strong indicators of stable attention.",
+    "num_segments": 3
+  },
+  "grid_17": {
+    "engagement": 0,
+    "confidence": {
+      "0": 0.6684953737924849,
+      "1": 0.11050154206917168,
+      "2": 0.11050154206917168,
+      "3": 0.11050154206917168
+    },
+    "anchor": 0,
+    "acceptable_deviation": {
+      "-1": false,
+      "+1": false,
+      "-2": true,
+      "+2": false
+    },
+    "reasoning": "The first minute shows some engagement with the calendar, but the second and third minutes depict complete inactivity and lack of interaction, leading to an overall assessment of not engaged. The absence of any observable behavior in the latter two minutes supports a level of 0, while a level of 1 is not plausible due to the consistent lack of attention and interaction.",
+    "num_segments": 3
+  },
+  "grid_18": {
+    "engagement": 1,
+    "confidence": {
+      "0": 0.29201281659706685,
+      "1": 0.5320820430765012,
+      "2": 0.08795257016321598,
+      "3": 0.08795257016321598
+    },
+    "anchor": 1,
+    "acceptable_deviation": {
+      "-1": true,
+      "+1": false,
+      "-2": false,
+      "+2": false
+    },
+    "reasoning": "The first minute shows no engagement with a blank scene, indicating a score of 0. The second minute introduces a stable interface but lacks interaction, suggesting barely engaged behavior (score of 1). The third minute shows some interaction with the cursor, but overall engagement remains weak and inconsistent, supporting the anchor level of 1. A score of 2 is not plausible due to the lack of sustained attention and stable engagement throughout.",
+    "num_segments": 3
+  }
+}

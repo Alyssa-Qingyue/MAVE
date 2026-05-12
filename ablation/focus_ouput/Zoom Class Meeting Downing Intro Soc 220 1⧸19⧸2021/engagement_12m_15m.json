@@ -1,0 +1,152 @@
+{
+  "grid_00": {
+    "engagement": 3,
+    "reasoning": "The young man displays stable forward orientation and posture, with a consistent direct gaze and neutral expression, indicating high engagement with the task at hand.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_01": {
+    "engagement": 3,
+    "reasoning": "The man displays a stable forward orientation and posture throughout the minute, with animated expressions indicating active participation in a conversation. His consistent engagement and slight leaning in suggest a high level of attentiveness, with no signs of distraction.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_02": {
+    "engagement": 3,
+    "reasoning": "The man exhibits stable forward orientation and posture, maintaining a steady gaze towards the camera throughout the minute. His consistent facial expression and upright posture indicate high engagement with the scene and the viewer, with no signs of distraction.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_03": {
+    "engagement": 2,
+    "reasoning": "The young man maintains a stable posture and consistent orientation towards the camera in the first segment, indicating engagement. However, the shift to a digital interface suggests a change in focus, which may introduce minor lapses in attention.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_04": {
+    "engagement": 1,
+    "reasoning": "The woman shows weak and unstable attention, as indicated by her gaze shifting off-camera and looking down, suggesting inconsistency in her focus. While she leans slightly forward, her posture and attention fluctuate, particularly with the introduction of another individual, which may have distracted her.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_05": {
+    "engagement": 2,
+    "reasoning": "The woman displays a generally stable posture and maintains a forward orientation, particularly as her gaze becomes more directed towards the camera. While there are slight movements, they contribute to a sense of engagement rather than distraction, indicating attentive behavior with only minor lapses.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_06": {
+    "engagement": 2,
+    "reasoning": "The individual demonstrates generally stable posture and forward orientation, appearing focused and engaged for most of the minute. The slight smile indicates attentiveness, although the shift to a scenic view suggests a momentary distraction. Overall, the engagement level remains consistent with minor lapses.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_07": {
+    "engagement": 2,
+    "reasoning": "The woman maintains a steady posture and generally oriented forward gaze, indicating engagement. However, her gaze is slightly off-camera, suggesting minor lapses in attention as she contemplates or focuses on something outside the immediate context.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_08": {
+    "engagement": 2,
+    "reasoning": "The individual displays a generally stable posture and is focused on an activity, indicating engagement. Although their posture is slightly hunched and their head is lowered, they remain centered in the frame and attentive to the task, suggesting minor lapses rather than dominant distractions.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_09": {
+    "engagement": 2,
+    "reasoning": "The person maintains a generally stable posture and is mostly oriented forward, with moments of expression that indicate attentiveness. Although there is a brief moment where they look down at the table, this suggests contemplation rather than disengagement, indicating overall engagement with their surroundings.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_10": {
+    "engagement": 1,
+    "reasoning": "The young man shows weak and unstable attention, with his gaze directed slightly off-camera for most of the minute and only a minor shift towards engagement in the final frame. His posture is consistent but does not indicate strong engagement.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_11": {
+    "engagement": 2,
+    "reasoning": "The young woman displays generally stable posture and orientation, indicating engagement with the activity, particularly as she shifts focus to the digital interface. Minor variations in head tilt and gaze direction suggest attentiveness with only slight lapses.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_12": {
+    "engagement": 2,
+    "reasoning": "The woman displays generally stable posture and attentive behavior, leaning forward and shifting her gaze towards a device, indicating engagement. While there are minor shifts in focus, her overall orientation remains forward and attentive.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_13": {
+    "engagement": 2,
+    "reasoning": "The individual displays a generally forward orientation and stable posture throughout the first minute, indicating engagement with an unseen subject or task. Although their gaze is directed off-camera, the thoughtful expression and consistent leaning forward suggest attentiveness, with only minor lapses in focus.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_14": {
+    "engagement": 2,
+    "reasoning": "The individual in the first set of frames displays a generally stable posture and subtle engagement with their surroundings, indicating attentiveness. While there are slight variations in head tilt and gaze, these do not detract significantly from their overall engagement level. The second set of frames introduces movement from the top individual, but the lower individual remains static, suggesting a mix of engagement levels. Overall, the first individual's consistent presence and the subtle dynamics in the scene indicate a level of engagement that aligns with a score of 2.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_15": {
+    "engagement": 2,
+    "reasoning": "The young woman displays generally stable posture and maintains a forward orientation, looking directly at the camera for most of the minute. While her expression is neutral and calm, there is a moment of speech or reaction that indicates attentiveness. Overall, her behavior suggests engagement with minor lapses.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_16": {
+    "engagement": 2,
+    "reasoning": "The young man displays generally stable posture and a forward orientation, indicating engagement with the content. Although there are slight variations in gaze and head position, these do not suggest significant distraction. His focus on the text document further supports a level of attentiveness, aligning with the criteria for being engaged.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_17": {
+    "engagement": 2,
+    "reasoning": "The woman maintains a stable posture, leaning forward and focusing on an activity in her lap, indicating attentiveness. The shift to a screen displaying organized text suggests she is engaged with the content. Overall, her consistent orientation and minor lapses in attention support a rating of 'Engaged.'",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_18": {
+    "engagement": 2,
+    "reasoning": "The individual displays stable posture and generally oriented forward attention while engaged with a digital device. Although there is a moment of stillness, the presence of earbuds suggests active engagement with content. The transition to a digital screen indicates attentiveness to information, with only minor lapses in focus.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_19": {
+    "engagement": 2,
+    "reasoning": "The individual shows generally stable forward orientation and posture, with a clear focus on an unseen object for most of the minute. Although there are minor fluctuations in attention, such as looking down initially, the final frame indicates a shift to a more engaged demeanor, suggesting overall engagement with brief lapses.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_20": {
+    "engagement": 2,
+    "reasoning": "The individual maintains a generally stable posture and a forward orientation, indicating attentiveness. Although their gaze is slightly off-camera, there are no signs of significant distraction or inattentiveness, suggesting they are engaged with something beyond the frame.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_21": {
+    "engagement": 2,
+    "reasoning": "The young woman demonstrates generally stable posture and a forward orientation, particularly as she raises her head and engages with her surroundings. While there are moments of contemplation, the overall behavior indicates attentiveness with only minor lapses.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_22": {
+    "engagement": 2,
+    "reasoning": "The man displays a generally stable posture and maintains a forward orientation, indicating engagement. Although there is a moment where the focus shifts away from him, his initial behavior suggests he is attentive with only minor lapses.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_23": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and a slight lean forward, indicating engagement. While there are minor shifts in head positioning, the overall demeanor suggests attentiveness with only brief lapses, particularly noted in the transition to a blank screen.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_24": {
+    "engagement": 2,
+    "reasoning": "The man displays generally engaged behavior with an upright posture and slight forward lean, indicating attentiveness. While there are moments of gaze drifting, they are not dominant, and his overall orientation suggests he is engaged with something in front of him. The presence of a blank screen at the end indicates a transition but does not detract from his overall engagement level.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  }
+}

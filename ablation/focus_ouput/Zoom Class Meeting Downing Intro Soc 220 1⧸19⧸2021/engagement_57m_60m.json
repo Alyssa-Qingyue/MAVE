@@ -1,0 +1,146 @@
+{
+  "grid_00": {
+    "engagement": 2,
+    "reasoning": "The young man displays generally stable posture and forward orientation throughout all three minutes, indicating a level of engagement. While there are minor lapses in attention, such as moments of contemplation and slight shifts in expression, these do not dominate his behavior. His consistent focus on the screen and positive gestures, particularly in the last minute, suggest he is engaged overall, but not at the highest level.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_01": {
+    "engagement": 3,
+    "reasoning": "The man consistently displays stable forward orientation and posture across all three minutes, with animated gestures and facial expressions that indicate high engagement. There are no dominant distractions, and his focus on the conversation remains strong throughout the observed segments.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_02": {
+    "engagement": 3,
+    "reasoning": "The man consistently displays stable forward orientation and posture across all three minutes, with no dominant distractions or significant lapses in attention. His upright posture and direct gaze indicate a high level of engagement throughout the observed segments.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_03": {
+    "engagement": 2,
+    "reasoning": "The young man displays generally stable posture and forward orientation throughout the three minutes, with moments of contemplation and slight shifts in expression indicating engagement. While there are minor lapses in focus, his overall demeanor suggests attentiveness and a connection to the off-screen activity.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_04": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and forward orientation across all three minutes, with moments of contemplation and slight shifts in gaze and head position. While there are minor lapses in attention, the overall demeanor suggests engagement and focus, aligning with the criteria for an 'Engaged' level.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_05": {
+    "engagement": 2,
+    "reasoning": "The young man displays generally stable posture and forward orientation throughout all three minutes, with only minor lapses in facial expression. His calm demeanor and consistent presence against the picturesque backdrop indicate a level of attentiveness, though there are slight variations in his expressions. Overall, he is engaged with the environment, but not to the extent of being highly engaged.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_06": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and forward orientation across all segments, with minor lapses in attention indicated by moments of contemplation or distraction. While there are shifts in expression and engagement levels, the overall tendency reflects a consistent level of attentiveness and interaction with her environment.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_07": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and orientation throughout the three minutes, with moments of contemplation and subtle shifts in expression. While there are minor lapses in gaze direction, the overall presence and engagement with the serene environment indicate a level of attentiveness that aligns with being engaged.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_08": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and forward orientation across all segments, with minor lapses in attention. There are moments of engagement indicated by smiles and shifts in focus, suggesting attentiveness to her environment. While there are slight variations in posture, they do not indicate significant distraction, supporting an overall level of engagement.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_10": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and a forward orientation throughout the three minutes, with moments of thoughtful engagement and minor lapses in expression. While there are shifts in posture and expression, they remain attentive and engaged with their surroundings, indicating a level of engagement that is consistent and focused, though not without brief fluctuations.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_11": {
+    "engagement": 2,
+    "reasoning": "The woman displays generally stable posture and forward orientation throughout the three minutes, with moments of leaning forward and direct eye contact. While there are subtle shifts in her expressions and posture, indicating minor lapses in attention, the overall engagement level remains consistent and attentive, justifying a score of 2.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_12": {
+    "engagement": 2,
+    "reasoning": "The individual demonstrates generally stable posture and forward orientation across all three minutes, indicating engagement with an object or activity. While there are minor lapses in attention, such as glancing down or raising a hand to the forehead, these do not dominate the behavior. Overall, the person maintains a consistent focus and posture, reflecting a level of engagement that aligns with the criteria for 'Engaged'.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_13": {
+    "engagement": 2,
+    "reasoning": "The woman displays generally stable posture and orientation throughout the three minutes, with consistent engagement indicated by her relaxed demeanor and subtle shifts in expression. While there are moments of contemplation and slight downward gaze, these do not dominate her behavior, suggesting she is attentive with only minor lapses.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_14": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and forward orientation across all segments, with minor lapses in gaze direction. Their expressions and gestures indicate moments of engagement and contemplation, suggesting attentiveness despite slight distractions.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_15": {
+    "engagement": 2,
+    "reasoning": "The individual demonstrates generally stable posture and orientation throughout the three minutes, with moments of focus and minor lapses in attention. While there are shifts in posture and gaze, they remain engaged with their environment, indicating a level of attentiveness that aligns with the 'Engaged' category.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_16": {
+    "engagement": 3,
+    "reasoning": "The young man consistently displays stable forward orientation and posture across all three minutes, maintaining an engaged demeanor with minimal distractions. His expressions, including moments of smiling, indicate attentiveness and emotional connection, reinforcing a high level of engagement throughout the observed period.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_17": {
+    "engagement": 2,
+    "reasoning": "The woman displays generally stable forward orientation and posture across all three minutes, with consistent engagement shown through her leaning slightly forward and varying expressions. While there are moments of contemplation, her overall demeanor reflects attentiveness with minor lapses, particularly in her shifts from smiles to thoughtful poses.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_18": {
+    "engagement": 3,
+    "reasoning": "The individual displays stable forward orientation and posture across all three minutes, maintaining an upright position and consistent gaze towards the camera. There are no dominant distractions, and while there are minor fluctuations in expression, they indicate engagement rather than distraction. The overall presence and focus on the individual suggest a high level of engagement throughout the observation.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_19": {
+    "engagement": 2,
+    "reasoning": "The individual maintains a generally stable posture and consistent forward orientation across all three minutes, indicating engagement. While there are minor shifts in focus and expression, these do not detract from their overall attentiveness. The presence of slight smiles and a lean forward in posture further supports a level of engagement, though the lack of dominant distractions or sustained focus on a single point prevents a higher rating.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_20": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and attentive behavior across all three minutes, with minor lapses in expression and slight shifts in posture. While there are moments of stillness and subtle engagement, the overall presence is consistent and oriented forward, indicating a level of engagement that is above minimal but not fully immersive.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_21": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and orientation throughout the three minutes, with moments of focused attention and engagement, particularly in the third minute where facial expressions indicate amusement and concentration. Minor lapses are present, but they do not dominate the behavior, suggesting an overall engaged state.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_22": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and forward orientation throughout the three minutes, with moments of engagement indicated by subtle facial expressions and slight shifts in posture. While there are minor lapses in attention, particularly in the first minute where the man appears distracted, the overall tendency across all segments shows a consistent level of engagement, particularly from the woman who maintains a more stable presence.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_23": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and consistent forward orientation across all three minutes, indicating engagement. While there are minor lapses in attention, such as slight shifts in gaze and posture, these do not dominate the overall behavior. The presence of interaction and attentiveness suggests a level of engagement that aligns with a score of 2.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_24": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and a forward orientation across all three minutes, indicating engagement. While there are minor lapses in focus, particularly in the third minute, the overall tendency reflects attentiveness and a consistent presence in the scene.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  }
+}

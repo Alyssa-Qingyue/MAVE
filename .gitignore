@@ -1,0 +1,36 @@
+# 忽略所有音视频大文件（补上了 .webm）
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.wav
+*.mp3
+*.jpg
+*.png
+*.gif
+*.jpeg
+*.bmp
+*.tiff
+*.ico
+*.webp
+
+# 忽略所有压缩包
+*.zip
+*.tar
+*.gz
+*.joblib
+*.pkl
+
+# 忽略产生大量 JSON 的输出文件夹
+project_class/output/
+project_class/project-teacher/
+prompt/
+textgrad_my/
+reflexion_my/
+reflexion/hotpotqa_runs/root/
+
+# 忽略系统和环境文件
+__pycache__/
+.DS_Store
+*.pyc

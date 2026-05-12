@@ -1,0 +1,146 @@
+{
+  "grid_00": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and consistent forward orientation across all three minutes, suggesting engagement with the snowy landscape outside. While there are minor shifts in position, these do not indicate significant distraction or lack of attention, leading to an overall assessment of engaged behavior.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_01": {
+    "engagement": 2,
+    "reasoning": "The man displays generally stable forward orientation and posture across all three minutes, with consistent engagement in conversation, dynamic expressions, and gestures. While there are minor shifts in demeanor, such as moments of contemplation, he maintains an overall attentive presence, indicating engagement with the scene.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_02": {
+    "engagement": 2,
+    "reasoning": "The individual is observed seated with an upright posture and looking directly ahead in the final minute, indicating stable engagement. While the first two minutes describe an empty space, the presence of the person in the last minute shows attentive behavior, suggesting overall engagement with the environment despite minor lapses in the earlier segments.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_03": {
+    "engagement": 2,
+    "reasoning": "The young man displays generally stable posture and forward orientation throughout the first two minutes, indicating engagement. In the third minute, there is a moment of looking down, suggesting a minor lapse, but he quickly returns to an upright position and looks ahead. Overall, the evidence shows consistent engagement with only brief lapses.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_04": {
+    "engagement": 2,
+    "reasoning": "The woman displays generally stable posture and forward orientation throughout the first two minutes, with moments of contemplation and positive expression. In the third minute, while there is a shift to a group interaction, the initial individual shows slight engagement, and the overall scene transitions to a more dynamic setting. There are minor lapses in attention, but the overall tendency indicates engagement.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_05": {
+    "engagement": 1,
+    "reasoning": "The individual displays weak and unstable attention, with inconsistent gaze direction and posture across the three minutes. While there are moments of stable posture and direct gaze, there are also noticeable lapses where the person looks down or appears contemplative, indicating a lack of sustained engagement.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_06": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and a forward orientation across all three minutes, indicating engagement. There are minor lapses in gaze direction and slight shifts in posture, but these do not detract significantly from their overall attentiveness. The consistent presence in a familiar setting further supports a level of engagement, though not at the highest intensity.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_07": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and orientation throughout the three minutes, with moments of slight engagement indicated by changes in facial expression and leaning forward. While there are minor lapses in focus, the overall behavior suggests a consistent level of attentiveness, aligning with the criteria for 'Engaged'.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_08": {
+    "engagement": 2,
+    "reasoning": "The woman displays generally stable posture and a forward orientation throughout the three minutes, indicating engagement. While there are minor variations in her facial expressions and slight movements, they do not detract from her overall attentiveness. The consistent presence and calm demeanor suggest she is engaged, with only minor lapses in focus.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_09": {
+    "engagement": 2,
+    "reasoning": "The woman displays generally stable posture and forward orientation throughout the three minutes, indicating engagement. In Minute 1, she is focused and absorbed in her task. In Minute 2, her expressions and gestures suggest active participation, while Minute 3 shows her engaged in conversation, albeit with a slight shift in focus. Overall, there are minor lapses, but the predominant behavior reflects engagement.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_10": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and a forward orientation throughout both minutes, indicating attentiveness. There are minor lapses in focus, as evidenced by slight shifts in head position and expression, but these do not detract significantly from overall engagement.",
+    "num_segments": 2,
+    "method": "simple_direct_scoring"
+  },
+  "grid_11": {
+    "engagement": 2,
+    "reasoning": "The woman displays a generally forward orientation and stable posture, indicating engagement. While there are subtle changes in her expression and head angle, these suggest moments of focus rather than distraction, supporting an overall level of engagement with minor lapses.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_12": {
+    "engagement": 3,
+    "reasoning": "The individual displays a stable forward orientation and posture across all three minutes, consistently looking ahead with minimal movement. There are no signs of distraction or inattentiveness, indicating a high level of engagement throughout the observed period.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_13": {
+    "engagement": 2,
+    "reasoning": "The man displays generally stable posture and forward orientation across all three minutes, with minor lapses in gaze direction. His movements are purposeful, and he maintains a neutral expression, indicating attentiveness. While there are brief moments of looking down or adjusting his cap, these do not dominate the overall engagement, suggesting he is engaged with the environment.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_14": {
+    "engagement": 2,
+    "reasoning": "The woman demonstrates generally stable posture and forward orientation across all three minutes, with minor lapses in attention indicated by slight shifts in her gaze and posture. While she occasionally looks down and makes subtle movements, her overall demeanor reflects a consistent engagement with her surroundings, warranting a score of 2.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_15": {
+    "engagement": 2,
+    "reasoning": "The young woman displays generally stable posture and a forward orientation throughout the three minutes, indicating engagement. While there are minor lapses in attention, such as a yawn in minute 2, her overall demeanor suggests she is attentive and focused on her task, with only brief moments of distraction.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_16": {
+    "engagement": 2,
+    "reasoning": "The young man displays generally stable posture and forward orientation throughout the first two minutes, with varying facial expressions indicating engagement. Although there are minor shifts in focus, he maintains a connection to the scene. In the third minute, while there is a notable shift to an outdoor setting, the initial engagement level remains consistent, suggesting he is attentive and engaged with the environment, despite the change.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_17": {
+    "engagement": 2,
+    "reasoning": "The individual displays a generally stable posture and orientation throughout the three segments, sitting comfortably next to a dog and a camel. While there are moments of stillness and relaxation, which suggest engagement, there are no indications of active interaction or attention shifts that would elevate the engagement level to 'Highly Engaged'. Minor lapses in attention are acceptable, but the overall behavior indicates a consistent level of engagement without significant distractions.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_18": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and forward orientation throughout the three minutes, indicating engagement with their tasks. While there are minor lapses in focus, such as looking down or adjusting their hair, these do not dominate the behavior observed. The consistent interaction with objects and the calm demeanor suggest a level of attentiveness that aligns with being engaged.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_19": {
+    "engagement": 2,
+    "reasoning": "The young man displays generally stable posture and forward orientation across all three minutes, with moments of thoughtful engagement and subtle expression changes. While there are brief lapses in focus, particularly in Minute 3, the overall tendency indicates a consistent level of engagement throughout the observation.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_20": {
+    "engagement": 2,
+    "reasoning": "The young man displays generally stable posture and a forward orientation throughout the three minutes, indicating engagement. While there are minor lapses in expression and slight shifts in posture, these do not detract significantly from his overall attentiveness. He appears calm and focused, particularly in the second and third minutes, suggesting a consistent level of engagement with his environment.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_21": {
+    "engagement": 2,
+    "reasoning": "The woman displays generally stable posture and orientation throughout the three minutes, with minor lapses in attention, such as looking down or appearing contemplative. While there are moments of engagement, particularly in Minute 2 where she gestures and shifts her posture, the overall tendency indicates she is mostly attentive with some brief distractions.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_22": {
+    "engagement": 2,
+    "reasoning": "The woman displays generally stable posture and a forward orientation throughout all three minutes, indicating engagement with her surroundings. While there are minor shifts in her gaze and posture, these do not suggest significant distraction or inattentiveness, aligning her behavior with the criteria for an engaged level.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_23": {
+    "engagement": 2,
+    "reasoning": "The descriptions indicate a generally stable forward orientation and attention to the visual elements of the Denver Broncos logo across all three minutes. While there are no explicit signs of distraction, the focus remains on the logo and its details, suggesting engagement with minor lapses. The consistent theme and visual stability contribute to an overall engaged observation.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "grid_00": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and forward orientation across all three minutes, with minor lapses in attention. While there are slight shifts in posture and gaze, these do not indicate significant distraction, suggesting a level of engagement that is attentive but not fully immersive.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_01": {
+    "engagement": 3,
+    "reasoning": "The man consistently displays stable forward orientation and posture across all three minutes, with no dominant distractions. His animated gestures, varied facial expressions, and consistent engagement with the camera indicate a high level of attentiveness and interaction throughout the observed period.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_02": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and a forward orientation across all three minutes, indicating engagement. While there are minor lapses in attention, such as shifts in gaze and moments of contemplation, these do not dominate the overall behavior. The consistent upright posture and focused gaze suggest a level of attentiveness that aligns with the 'Engaged' category.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_03": {
+    "engagement": 3,
+    "reasoning": "The young woman consistently displays stable forward orientation and posture across all three segments. She maintains an upright position, engages with the camera, and shows subtle expressions that indicate attentiveness and connection. There are no dominant distractions, and while there are brief moments of contemplation, they do not detract from her overall engagement.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_04": {
+    "engagement": 2,
+    "reasoning": "The individual maintains a generally stable posture and consistent forward orientation across all three minutes, with their gaze directed downward, indicating focus. While there are slight variations in facial expressions and head positioning, these do not suggest significant distractions. The overall calm and composed presence reflects engagement, albeit with minor lapses in attention.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_06": {
+    "engagement": 2,
+    "reasoning": "The individual maintains a generally stable posture and consistent forward orientation across all three minutes, suggesting engagement. While there are minor lapses in gaze direction, the overall demeanor reflects attentiveness and focus, aligning with the criteria for an engaged level.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_07": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and forward orientation across all three minutes, with minor movements and subtle shifts in head position. While there are slight variations in expression and posture, there are no significant distractions or signs of disengagement, indicating a level of consistent attention.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_08": {
+    "engagement": 2,
+    "reasoning": "The woman displays generally stable forward orientation and posture across all three minutes, with a consistent focus on her surroundings. While there are moments of looking down and slight shifts in attention, these do not dominate her behavior, indicating she is engaged with her activity most of the time, with only minor lapses.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  },
+  "grid_09": {
+    "engagement": 0,
+    "reasoning": "The evidence describes a static visual scene with no observable behavior or engagement from a person. The consistent presentation of the letter 'M' against a blue background indicates a lack of interaction or attention, leading to a conclusion of not engaged.",
+    "num_segments": 3,
+    "method": "simple_direct_scoring"
+  }
+}

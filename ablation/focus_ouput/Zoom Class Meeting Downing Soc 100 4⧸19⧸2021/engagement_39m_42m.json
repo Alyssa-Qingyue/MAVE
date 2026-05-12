@@ -1,0 +1,62 @@
+{
+  "grid_00": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and a forward orientation, with a range of expressions indicating attentiveness. While there are minor shifts in focus, the overall demeanor suggests engagement with the environment, particularly in the latter part of the minute.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_01": {
+    "engagement": 2,
+    "reasoning": "The man displays generally stable posture and forward orientation throughout both segments, indicating engagement. While there are minor lapses, such as looking down in the final frame of Minute 3, his overall demeanor suggests attentiveness with some dynamic expressions, particularly during moments of laughter and focus.",
+    "num_segments": 2,
+    "method": "simple_direct_scoring"
+  },
+  "grid_02": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and orientation, maintaining an upright position and looking directly at the camera for most of the time. There are minor lapses in attention, such as touching their chin and a brief smile, but these do not indicate significant distraction. Overall, the behavior suggests engagement with the environment.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_03": {
+    "engagement": 2,
+    "reasoning": "The woman maintains a generally stable posture and forward orientation, indicating attentiveness, although there are minor lapses as she occasionally shifts her gaze and adjusts her hair. This suggests she is engaged but not fully focused throughout the entire minute.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_04": {
+    "engagement": 2,
+    "reasoning": "The individual displays a generally stable posture and a forward orientation, indicating engagement. While there are slight variations in gaze and expression, these suggest minor lapses rather than sustained distraction, aligning with the characteristics of being engaged.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_06": {
+    "engagement": 2,
+    "reasoning": "The individual displays generally stable posture and a forward orientation, indicating attentiveness. While there are minor shifts in expression and head angle, these do not detract from their overall engagement level, which remains consistent throughout the minute.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_08": {
+    "engagement": 2,
+    "reasoning": "The individual maintains a generally forward orientation and stable posture, leaning slightly forward with their gaze directed towards the camera. While there are subtle variations in expression and head position, these do not indicate significant distraction, suggesting they are engaged with their environment.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_10": {
+    "engagement": 0,
+    "reasoning": "The evidence describes a completely static scene with no observable behavior from the person. There is no indication of attention or engagement, as the focus is solely on the visual elements of the frames without any interaction or response from the individual.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_20": {
+    "engagement": 0,
+    "reasoning": "The evidence describes a static visual scene with no indication of the person's attention or engagement with the content. There is no mention of the individual looking at the letters or showing any signs of active observation, suggesting frequent looking away or inattentiveness.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  },
+  "grid_22": {
+    "engagement": 0,
+    "reasoning": "The description indicates a lack of any observable behavior from the person, as it focuses solely on the visual elements of the scene without mentioning any engagement or interaction. This suggests frequent looking away or inattentive behavior.",
+    "num_segments": 1,
+    "method": "simple_direct_scoring"
+  }
+}

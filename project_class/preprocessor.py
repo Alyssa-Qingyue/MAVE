@@ -15,51 +15,69 @@ from openai import OpenAI
 
 
 # Initialize OpenAI client
-client = OpenAI(
-    api_key=os.environ["OPENAI_API_KEY"]
-)
-MODEL = "gpt-4o-mini"
 TIMEOUT = 60
 
-IMAGE_ROOT = r"D:\Desktop\llm_as_a_judge\data\llm\project\Zoom Class Meeting Downing Soc 100 4⧸19⧸2021\images"
-OUTPUT_DIR = r"D:\Desktop\llm_as_a_judge\data\llm\project\Zoom Class Meeting Downing Soc 100 4⧸19⧸2021\preprocesssor_ouput"
-PPT_EXCLUDED_TIMES_JSON = r"D:\Desktop\llm_as_a_judge\data\llm\project\Zoom Class Meeting Downing Soc 100 4⧸19⧸2021\ppt_excluded_times.json"
-ICON_EXCLUDED_FRAMES_JSON = r"D:\Desktop\llm_as_a_judge\data\llm\project\Zoom Class Meeting Downing Soc 100 4⧸19⧸2021\icon_excluded_frames.json"
-BLACK_EXCLUDED_FRAMES_JSON = r"D:\Desktop\llm_as_a_judge\data\llm\project\Zoom Class Meeting Downing Soc 100 4⧸19⧸2021\black_excluded_frames.json"
+_openrouter_key = os.getenv("OPENROUTER_API_KEY")
+_openai_key = os.getenv("OPENAI_API_KEY")
+
+if _openrouter_key and _openrouter_key.strip():
+    # Use OpenRouter
+    MODEL = "openai/gpt-4o-mini"
+    client = OpenAI(
+        api_key=_openrouter_key.strip(),
+        base_url="https://openrouter.ai/api/v1"
+    )
+elif _openai_key and _openai_key.strip():
+    # Use official OpenAI API
+    MODEL = "gpt-4o-mini"
+    client = OpenAI(api_key=_openai_key.strip())
+else:
+    raise ValueError(
+        "API key is not set. Please configure one of the following:\n"
+        "  - set OPENROUTER_API_KEY=your_key   (OpenRouter)\n"
+        "  - set OPENAI_API_KEY=your_key       (Official OpenAI API)"
+    )
+
+IMAGE_ROOT = r"/Users/alyssa/Desktop/llm_as_a_judge/data/llm/project_class/images_out_black"
+OUTPUT_DIR = r"/Users/alyssa/Desktop/llm_as_a_judge/data/llm/project_class/output/preprocessor_output_now"
+PPT_EXCLUDED_TIMES_JSON = r"/Users/alyssa/Desktop/llm_as_a_judge/data/llm/project_class/output/ppt_excluded_times.json"
+ICON_EXCLUDED_FRAMES_JSON = r"/Users/alyssa/Desktop/llm_as_a_judge/data/llm/project_class/output/icon_excluded_frames.json"
+BLACK_EXCLUDED_FRAMES_JSON = r"/Users/alyssa/Desktop/llm_as_a_judge/data/llm/project_class/output/black_excluded_frames.json"
+# Resume controls:
+# - Set START_MINUTE=17 to continue from minute_17.
+# - Set to None to process all minutes from the beginning.
+START_MINUTE = 21
 TOTAL_PROMPT_TOKENS = 0
 TOTAL_COMPLETION_TOKENS = 0
 REQUEST_COUNT = 0
 
 
 # PROMPT
-
 PREPROCESSOR_PROMPT = """
-You are a visual scene narrator.
+You are a visual scene narrator specializing in human behavior and body language analysis.
 
-You will be shown one or more image frames presented together.
-Your task is to describe, in natural language, what is visibly shown in the scene.
+You will be shown several image frames from a video. Your task is to provide a detailed third-person description of the scene, focusing specifically on the person's posture, gestures, and behavioral cues.
 
-Write a detailed third-person description that covers the scene from multiple perspectives, for example:
-- an overall view of the scene,
-- the visible posture and positioning of the person in the frame,
-- the arrangement and appearance of visible objects,
-- any visible changes or consistency across the frames.
+Observation Focus (Pay close attention to these features):**
+- Posture & Movement**: Detect if arms are crossed, slouching, hand stretching, or if there is a consistent pose vs. changing seating positions. Note if the person moves closer to the screen or tilts their head towards it.
+- Hand Gestures**: Identify active hand movements, hands playing with objects, hands at the back of the head, or a hand on the mouth (thinking pose). Note if the person is modifying their glasses.
+- Facial & Oral Actions**: Detect nodding, yawning, smiling, speaking, or drinking/eating.
+- *emporal Changes**: Note any "Sudden behavior change" between frames, or if the person has just returned to the scene (back from a break).
 
-Guidelines:
-- Describe only what can be directly seen.
-- Use natural, continuous prose rather than lists.
-- It is acceptable to restate or elaborate on details if it helps clarity.
-- Do NOT infer mental states, intentions, emotions, or reasons.
-- Do NOT evaluate or judge the person.
-- If little movement is visible, describe the stillness in detail.
+Critical Action Detection**:
+- Describe the presence of writing instruments (pens, pencils, styluses).
+- If you are VERY SURE a writing action is occurring, add a **"writing"** tag to your description.
+
+Guidelines**:
+- Describe ONLY what is visibly shown. Do NOT infer emotions, intentions, or mental states (e.g., instead of "bored," say "yawning and slouching").
+- Use natural, continuous prose.
+- If the person is still, describe the stillness and the specific pose they are maintaining.
 
 Style:
-- Neutral, descriptive narration.
-- Third-person.
-- Aim for 1–3 short paragraphs.
-
+- Neutral, objective, and descriptive.
+- Third-person narration.
+- 1–3 short, information-dense paragraphs.
 """
-
 
 # UTILS
 
@@ -184,6 +202,16 @@ def main():
     for minute_id in sorted(os.listdir(IMAGE_ROOT)):
         video_dir = os.path.join(IMAGE_ROOT, minute_id)
         if not os.path.isdir(video_dir):
+            continue
+        if not minute_id.startswith("minute_"):
+            continue
+
+        try:
+            minute_num = int(minute_id.replace("minute_", ""))
+        except ValueError:
+            continue
+
+        if START_MINUTE is not None and minute_num < START_MINUTE:
             continue
 
         print(f"\n[MINUTE] {minute_id}")
