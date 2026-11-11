@@ -8,8 +8,25 @@ This project proposes a methodology that shifts focus from simple classification
 ---
 ## Framework Architecture
 
-<img width="1378" height="715" alt="截屏2026-04-21 00 16 21" src="https://github.com/user-attachments/assets/aaa42b15-07b7-4aa0-a838-c9e13a14cf89" />
-> *Figure: Overview of the proposed framework, including Instructional Context Recognition, Learner Engagement Quantification, and Feedback Generation.
+![MAVE framework](assets/figures/pipeline.png)
+
+*The Curator infers instructional targets, the Observer extracts aligned student evidence, the Assessor estimates student states with optional Passive refinement, and the Advisor turns the target–state gap into grounded teaching feedback.*
+
+## Task and Teaching Feedback
+
+![Three challenges of grounded teaching feedback](assets/figures/challenges.png)
+
+*Sparse local cues, delayed multimodal responses, and segment-specific target–response gaps.*
+
+![From classroom evidence to actionable teaching feedback](assets/figures/teaching_feedback.png)
+
+*The target–state gap guides a teaching revision with a concrete prompt, scaffold, and observable success criterion.*
+
+## MAVEBench
+
+![MAVEBench overview](assets/figures/benchmark.png)
+
+*Composition of 173 knowledge-point segments and per-video face crops and frames after cleaning.*
 
 
 ---
