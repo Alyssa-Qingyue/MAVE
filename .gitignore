@@ -34,3 +34,5 @@ reflexion/hotpotqa_runs/root/
 __pycache__/
 .DS_Store
 *.pyc
+# Paper figures displayed in the repository README
+!assets/figures/*.png
